@@ -1,4 +1,4 @@
-# rotating-object-sensor
+# Embedded Ultrasonic Sensor
 The firmware code for a rotating object sensor using an STM32 Nucleo Board.
 
 ## Organization
